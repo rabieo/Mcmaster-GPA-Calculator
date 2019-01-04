@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/rabieo/Mcmaster-GPA-Calculator/precache-manifest.ce66ab05f056862052465d57a476f0c0.js"
+  "/Mcmaster-GPA-Calculator/precache-manifest.f3b4cc28f9ef9291c9f4d89b34f07041.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/rabieo/Mcmaster-GPA-Calculator/index.html", {
+workbox.routing.registerNavigationRoute("/Mcmaster-GPA-Calculator/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
