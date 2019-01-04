@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Mcmaster-GPA-Calculator/precache-manifest.f3b4cc28f9ef9291c9f4d89b34f07041.js"
+  "/Mcmaster-GPA-Calculator/precache-manifest.dbe2ceaf2ae3ddecda3b48ff3b49c924.js"
 );
 
 workbox.clientsClaim();
